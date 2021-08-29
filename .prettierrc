@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "tabWidth": 2,
   "useTabs": false,
   "singleQuote": true,
@@ -6,3 +7,12 @@
   "trailingComma": "all",
   "endOfLine": "auto"
 }
+=======
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "semi": false,
+    "trailingComma": "all",
+    "endOfLine": "auto"
+}
+>>>>>>> a8bc174 (Menambahkan konfigurasi Prettier agar tidak error saat project dijalankan di Windows)
